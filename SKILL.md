@@ -1,17 +1,18 @@
 ---
 name: mockumentary-framework
-description: "Transform narrative into documentary-style format with talking heads, camera awareness, and gaps between self-perception and reality"
+description: Transform narrative into documentary-style format with talking heads, camera awareness, and gaps between self-perception and reality
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  author: Seth Black
+  version: 1.0.4515
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - mockumentary
-  - documentary
-  - the-office
-  - talking-head
-  - fourth-wall
-  - comedy-format
+- mockumentary
+- documentary
+- the-office
+- talking-head
+- fourth-wall
+- comedy-format
 ---
 
 # Mockumentary Framework Builder
